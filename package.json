@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate-react-typescript",
+  "name": "<%= name %>",
   "version": "0.0.1",
   "scripts": {
     "test": "exit 0",
