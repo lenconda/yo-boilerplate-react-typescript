@@ -1,5 +1,5 @@
 import React from 'react';
-// import styles from './App.less';
+import './App.css';
 
 const App: React.FC = () => {
   return (
