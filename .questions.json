@@ -1,0 +1,8 @@
+[
+  {
+    "type": "input",
+    "name": "test",
+    "message": "Just for test",
+    "default": "woohoo"
+  }
+]
